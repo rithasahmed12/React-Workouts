@@ -1,4 +1,4 @@
-import MyComponent from './updateArrayObject.jsx'
+import MyComponent from './useEffect2.jsx'
 
 function App() {
 
