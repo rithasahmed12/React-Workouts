@@ -1,11 +1,9 @@
-import MyComponent from './useEffect2.jsx'
+import MyComponent from "./useRef.jsx";
 
 function App() {
 
   return(
-    <>
-      <MyComponent></MyComponent>
-    </>
+    <MyComponent />
   );
 }
 
