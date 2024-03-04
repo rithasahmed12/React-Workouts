@@ -45,6 +45,7 @@ function MyComponent(){
         </button>
         <input ref={inputRef2} />
         <br />
+        {/* made */}
         <button onClick={handleClick3}>
         Click Me 3
         </button>
